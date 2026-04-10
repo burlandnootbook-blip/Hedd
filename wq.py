@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Shopify GraphQL Card Checker – Final Working Version
-Uses Shopify's internal APIs – no browser required.
-"""
-
 import requests
 import json
 import re
